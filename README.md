@@ -4,10 +4,9 @@ Static GitHub Pages website for Clox, containing the landing page, Privacy Polic
 
 ## Before publishing
 
-1. Replace `[REPLACE WITH DEVELOPER / PUBLISHER NAME]` in `privacy-policy.html` and `terms-and-conditions.html` with the publisher's legal name.
-2. Replace `[REPLACE WITH SUPPORT EMAIL]` in both policy pages with the support email address.
-3. Replace `REPLACE_WITH_SUPPORT_EMAIL` in `index.html` with the same email address.
-4. Review the policy text against the final app build, SDKs, Android permissions and actual data practices.
+1. Publisher name: **Gopal Reddy**.
+2. Support email: **kasautiresearch@gmail.com**.
+3. Review the policy text against the final app build, SDKs, Android permissions and actual data practices.
 
 ## Publish with GitHub Pages
 
